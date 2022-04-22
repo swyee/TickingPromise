@@ -1,5 +1,5 @@
 {
-    "name": "wyrihaximus/ticking-promise",
+    "name": "swyee/ticking-promise",
     "description": "Wrapping ticks into a promise",
     "license": "MIT",
     "authors": [
@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": "^8 || ^7.4",
+        "php": "^8.0 || ^7.4",
         "react/event-loop": "^1.2",
         "react/promise": "^2.8"
     },
